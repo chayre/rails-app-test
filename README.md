@@ -1,24 +1,6 @@
 # README
+This is an exercise in deploying sites using Rails and Heroku. This application queries the user for a car make, model, and year then adds it to a list of cars. The list conforms to the constraints of REST architectural style and allows updating, deleting, etc. There is no HTML or CSS applied; this is just a basic test. The application is deployed via Heroku at: https://cryptic-tundra-22949.herokuapp.com/. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# VERSION
+Ruby 3.0.3
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
